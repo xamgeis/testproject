@@ -27,4 +27,5 @@ public class JUnit_test extends ActivityInstrumentationTestCase2<MyActivity>{
 
         assertEquals("Hello World!", tester);
     }
+
 }
